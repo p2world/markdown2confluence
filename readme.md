@@ -19,7 +19,7 @@ Installation
 ---
 
 ```sh
-npm i markdown2confluence -g
+npm i https://github.com/p2world/markdown2confluence/archive/gh-pages.tar.gz -g
 ```
 
 Usage
@@ -28,10 +28,6 @@ Usage
 ```sh
 markdown2confluence markdown.md
 ```
-
-or
-
-Try in browser <http://chunpu.github.io/markdown2confluence/browser/>
 
 Document
 ---
