@@ -1,0 +1,4 @@
+{
+    "cmd": ["markdown2confluence.cmd","$file"],
+    "selector":"text.html.markdown"
+}

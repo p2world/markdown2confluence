@@ -29,6 +29,12 @@ Usage
 markdown2confluence markdown.md
 ```
 
+sublime build
+---
+
+`cp markdown2confluence.sublime-build _SUBLIME_/Data/Packages/User/`
+
+
 Document
 ---
 
