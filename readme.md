@@ -34,6 +34,32 @@ sublime build
 
 `cp markdown2confluence.sublime-build _SUBLIME_/Data/Packages/User/`
 
+code langs
+---
+
+* actionscript3
+* bash
+* csharp (C#)
+* coldfusion
+* cpp (C++)
+* css
+* delphi
+* diff
+* erlang
+* groovy
+* html/xml
+* java
+* javafx
+* javascript
+* none (no syntax highlighting)
+* perl
+* php
+* powershell
+* python
+* ruby
+* scala
+* sql
+* vb
 
 Document
 ---
